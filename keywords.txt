@@ -1,0 +1,8 @@
+RYLR998	KEYWORD1
+begin	FUNCTION1
+configure	FUNCTION1
+send	FUNCTION1
+available	FUNCTION1
+receive	FUNCTION1
+LoRaMessage	TYPE1
+
