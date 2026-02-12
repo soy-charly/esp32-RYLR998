@@ -25,7 +25,7 @@ Permite inicializar, configurar, enviar y recibir mensajes de manera sencilla us
 
 1. Copia la carpeta `RYLR998` en:
 
-```
+```cpp
 ~/Arduino/libraries/
 ```
 
